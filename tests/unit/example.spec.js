@@ -1,5 +1,5 @@
 describe('Example Component', () => {
-  test('debe de ser mayor a 10', () => {
+  it('debe de ser mayor a 10', () => {
     // Arrange.
     let value = 5;
 
